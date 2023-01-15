@@ -6,16 +6,16 @@ Please take a look in my repos, any feedback is welcome!
 
 ### 👨‍💻 Tech stack:
 
-- React (Router, Recoil, ContextAPI...);
+- React (Router, Recoil, Redux...);
 - TypeScript;
 - JavaScript (ES6);
 - CSS3 (SCSS, Styled Components);
 - HTML5;
 - MongoDB.
 
-### 📚 Currently focused on learning/getting better in:
+### 📚 Currently focused on:
 
-- Redux;
-- Node (Express);
-- Git and GitHub;
-- Data structures and algorithms.
+- Advancing in React;
+- Learning Node (Express);
+- Getting better with Git and GitHub;
+- Learning more about data structures and algorithms.
