@@ -4,4 +4,5 @@ Hello! I'm Matheus Gomes, a front-end junior developer (in the road to fullstack
 
 Please take a look in my repos, any feedback is welcome! 
 
-[![Fearinn's GitHub stats](https://github-readme-stats.vercel.app/api?username=fearinn)](https://github.com/fearinn/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fearinn&layout=compact&theme=dracula)](https://github.com/fearinn/github-readme-stats)
+[![Fearinn's GitHub stats](https://github-readme-stats.vercel.app/api?username=fearinn&theme=dracula)](https://github.com/fearinn/github-readme-stats)
