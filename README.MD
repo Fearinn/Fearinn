@@ -1,8 +1,6 @@
 # Hey, welcome to my profile! 👋
 
-Hello! I'm Matheus Gomes, a front-end junior developer (in the road to fullstack) from Brazil. I love to develop SPAs with cool features, especially when I can learn a lot by doing so!
-
-Please take a look in my repos, any feedback is welcome! 
+Hello! I'm Matheus Gomes, a freelancer developer from Brazil. My current focus is on creating digital versions of board games with the Board Game Arena framework, with classic front-end languages (HTML, CSS & JS) and PHP.
 
 Linkedin: https://www.linkedin.com/in/matheus-marques-gomes/
 
